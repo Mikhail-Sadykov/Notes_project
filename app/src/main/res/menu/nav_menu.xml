@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:showIn="navigation_view">
+
+    <item android:title="Основные функции">
+        <menu>
+            <item
+                android:id="@+id/nav_notes"
+                android:icon="@drawable/ic_notes"
+                android:title="@string/textNotes"/>
+
+            <item
+                android:id="@+id/nav_protected_notes"
+                android:icon="@drawable/ic_protected_notes"
+                android:title="@string/textProtectedNotes"/>
+
+            <item
+                android:id="@+id/nav_event"
+                android:icon="@drawable/ic_event"
+                android:title="@string/textEvent"/>
+
+            <item
+                android:id="@+id/nav_archive"
+                android:icon="@drawable/ic_archive"
+                android:title="@string/textArchive"/>
+        </menu>
+    </item>
+
+    <item android:title="Профиль">
+        <menu>
+            <item
+                android:id="@+id/nav_login"
+                android:icon="@drawable/ic_login"
+                android:title="@string/textLogin"/>
+
+            <item
+                android:id="@+id/nav_register"
+                android:icon="@drawable/ic_register"
+                android:title="@string/textRegister"/>
+        </menu>
+    </item>
+
+    <item android:title="Другое">
+        <menu>
+            <item
+                android:id="@+id/nav_question"
+                android:icon="@drawable/ic_question"
+                android:title="@string/textQuestion"/>
+
+            <item
+                android:id="@+id/nav_settings"
+                android:icon="@drawable/ic_settings"
+                android:title="@string/textSettings"/>
+
+            <item
+                android:id="@+id/nav_info"
+                android:icon="@drawable/ic_info"
+                android:title="@string/textInfo"/>
+        </menu>
+    </item>
+
+</menu>

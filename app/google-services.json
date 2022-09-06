@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "384280910896",
+    "project_id": "drond-f6d97",
+    "storage_bucket": "drond-f6d97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384280910896:android:494a696ae4448a518f61f5",
+        "android_client_info": {
+          "package_name": "ru.coffeetrail.drond"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384280910896-p471mh1d0m05d6319m3asln0dptno9dq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_d6lWZG5UXpQRm6kzfWaaY3lMsoXHCc8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384280910896-p471mh1d0m05d6319m3asln0dptno9dq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
